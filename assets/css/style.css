@@ -878,6 +878,10 @@ footer .bot-foot {
         height: auto;
         bottom: -100%;
     }
+     .hotels .content {
+        right: 20px;
+        width: 30%;
+    }
 
     #restaurants {
         height: auto;
